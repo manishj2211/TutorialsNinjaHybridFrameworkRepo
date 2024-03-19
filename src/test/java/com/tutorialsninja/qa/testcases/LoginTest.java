@@ -1,6 +1,7 @@
 package com.tutorialsninja.qa.testcases;
 
 import java.time.Duration;
+
 import java.util.Date;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -19,6 +20,9 @@ import com.tutorialsninja.qa.pages.AccountPage;
 import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.utils.Utilities;
+
+
+// Updated comment
 
 public class LoginTest extends Base{
 	
