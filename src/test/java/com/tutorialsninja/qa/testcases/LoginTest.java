@@ -21,9 +21,6 @@ import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.utils.Utilities;
 
-
-// Updated comment
-
 public class LoginTest extends Base{
 	
 	public LoginTest() {

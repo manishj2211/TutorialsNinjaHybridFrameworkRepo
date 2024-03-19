@@ -12,6 +12,9 @@ import com.tutorialsninja.qa.pages.HomePage;
 import com.tutorialsninja.qa.pages.LoginPage;
 import com.tutorialsninja.qa.pages.SearchPage;
 
+
+//Updated comment- Added more details
+
 public class SearchTest extends Base{
     
 	public WebDriver driver;
